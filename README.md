@@ -18,6 +18,10 @@ Run the application with the following command:
 node index.js
 
 Follow the prompt to input a URL. The application will generate a QR code image (`qr_img.png`) and save the URL in a text file (`URL.txt`).
+for example:
+after putting https://shovo.ca it creates these 2 files :
+![URL](https://github.com/shovo4/QRCode_Project/blob/main/URL.txt)
+![QR](https://github.com/shovo4/QRCode_Project/blob/main/qr_img.png)
 
 ## Features
 - Command-line interaction with `inquirer`.
